@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @modhu1687
 - 👀 I’m interested in programmin..
-- 🌱 I’m currently learning C language..
+- 🌱 I’m currently learning dart language..
 - 💞️ Dreamers 
 - 📫 roy2305101687@diu.edu.bd
 - 📞 +8801306758867
